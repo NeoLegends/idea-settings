@@ -1,0 +1,158 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7fb81095-7874-4a48-8f5f-4e2419ea6643" name="Branchen - München Test" url="http://diemuenchner.de1.cc">
+        <fileTransfer host="diemuenchner.de1.cc" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b0777b27-1dc7-4e83-8e8e-db21bbfb5840" name="Branchen - München Live" url="http://diemuenchner.de">
+        <fileTransfer host="diemuenchner.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="409653c3-c730-44ab-af8d-d39006293c0c" name="Branchen - München Dev" url="http://diemuenchner.de1.cc">
+        <fileTransfer host="diemuenchner.de1.cc" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1a5c7fa4-e297-4cbc-9bcb-f6b1a4e684a3" name="Branchen - Düsseldorf Test" url="http://ddbrez.de">
+        <fileTransfer host="ddbrez.de" port="21" rootFolder="/web/branchen">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ba557123-464d-4211-9e63-d03adc83a271" name="Branchen - Düsseldorf Live" url="http://branchen-duesseldorf.de">
+        <fileTransfer host="branchen-duesseldorf.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="02ef1562-8a10-41e8-848a-13ff598f3dad" name="Branchen - Duisburg Test" url="http://ftp.duisburg.de1.cc">
+        <fileTransfer host="ftp.duisburg.de1.cc" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d2836407-f552-4fc1-9f78-43528ecc6cd5" name="Branchen - Duisburg Live" url="http://ftp.duisburg.de1.cc">
+        <fileTransfer host="ftp.duisburg.de1.cc" port="21" rootFolder="/versions">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4910eff8-637c-45e6-b848-a9b3c97ba0db" name="Branchen - Essen Test" url="http://debrez.de">
+        <fileTransfer host="debrez.de" port="21" rootFolder="/web/branchen">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="26d57417-c9e3-4203-95d0-7e921c83931c" name="Branchen - Essen Live" url="http://essener-branchenbuch.de">
+        <fileTransfer host="essener-branchenbuch.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="99559fc2-3c10-4f59-a960-c4948f860aad" name="Branchen - Erkrath" url="http://mylocalratingen.de">
+        <fileTransfer host="mylocalratingen.de" port="21" rootFolder="/erkrath/production/versions">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" maxConnections="1" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d24dbdde-b2d6-4cda-8d8c-dfdaa61991d8" name="Branchen - Ratingen" url="http://mylocalratingen.de">
+        <fileTransfer host="mylocalratingen.de" port="21" rootFolder="/ratingen/production/versions">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" maxConnections="1" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="47d939ba-5235-4dd5-8e40-b1a84f0ae74e" name="Branchen - Köln Test" url="http://kbispwebng.kbrez.de">
+        <fileTransfer host="kbispwebng.kbrez.de" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="01d4507c-7cb0-4100-865e-a3328a444cf5" name="Branchen - Köln Live" url="http://kbispwebng.kbrez.de">
+        <fileTransfer host="kbispwebng.kbrez.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1f501bf0-3d65-4571-a034-fc2fbb28d41e" name="Branchen - Aachen Live" url="http://kbispwebng.kbrez.de">
+        <fileTransfer host="kbispwebng.kbrez.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8cafaa81-2c2d-46c4-a09b-3039b5f02d16" name="Branchen - Berlin Live" url="http://branchenbook.info">
+        <fileTransfer host="branchenbook.info" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c65be5d4-5466-41a5-b4fd-fff03779aed1" name="Branchen - Bonn Live" url="http://bonnbranchen.de">
+        <fileTransfer host="bonnbranchen.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="97bf635c-e87e-4a56-bbd1-3bc240f70f5e" name="Branchen - Aachen Test" url="http://kbispwebng.kbrez.de">
+        <fileTransfer host="kbispwebng.kbrez.de" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="33f1f51b-6095-42c3-a00d-6d4c746c069d" name="Branchen - Berlin Test" url="http://branchenbook.info">
+        <fileTransfer host="branchenbook.info" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="62e245cf-0b1a-4368-93ab-bed392564728" name="Branchen - Bonn Test" url="http://bonnerbranchen.info">
+        <fileTransfer host="bonnerbranchen.info" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
