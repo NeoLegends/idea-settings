@@ -38,8 +38,12 @@
           <option name="url" value="https://github.com/Duplexmedia/simfolio.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Duplexmedia/listingtool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\morit\Documents\Development\Duplexmedia" />
+    <option name="cloneParentDir" value="C:\Dev\Duplexmedia" />
   </component>
 </application>
