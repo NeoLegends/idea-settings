@@ -50,7 +50,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d2836407-f552-4fc1-9f78-43528ecc6cd5" name="Branchen - Duisburg Live" url="http://ftp.duisburg.de1.cc">
-        <fileTransfer host="ftp.duisburg.de1.cc" port="21" rootFolder="/versions">
+        <fileTransfer host="ftp.duisburg.de1.cc" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
