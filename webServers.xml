@@ -74,7 +74,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="99559fc2-3c10-4f59-a960-c4948f860aad" name="Branchen - Erkrath" url="http://mylocalratingen.de">
-        <fileTransfer host="mylocalratingen.de" port="21" rootFolder="/erkrath/production/versions">
+        <fileTransfer host="mylocalratingen.de" port="21" rootFolder="/erkrath/production">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" maxConnections="1" />
           </advancedOptions>
@@ -82,7 +82,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d24dbdde-b2d6-4cda-8d8c-dfdaa61991d8" name="Branchen - Ratingen" url="http://mylocalratingen.de">
-        <fileTransfer host="mylocalratingen.de" port="21" rootFolder="/ratingen/production/versions">
+        <fileTransfer host="mylocalratingen.de" port="21" rootFolder="/ratingen/production">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" maxConnections="1" />
           </advancedOptions>
