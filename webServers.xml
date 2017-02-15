@@ -42,7 +42,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="1a5c7fa4-e297-4cbc-9bcb-f6b1a4e684a3" name="Branchen - Düsseldorf Test" url="http://ddbrez.de">
-        <fileTransfer host="ddbrez.de" port="21" rootFolder="/web/branchen">
+        <fileTransfer host="ddbrez.de" port="21" rootFolder="/web">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
