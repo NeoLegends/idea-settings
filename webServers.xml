@@ -74,7 +74,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4910eff8-637c-45e6-b848-a9b3c97ba0db" name="Branchen - Essen Test" url="http://debrez.de">
-        <fileTransfer host="debrez.de" port="21" rootFolder="/web/branchen">
+        <fileTransfer host="debrez.de" port="21" rootFolder="/web">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
