@@ -169,6 +169,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="7cdcf704-834d-4262-8cc6-10dbf7acfff4" name="Branchen - Duesseldorf Live Test" url="http://ddbrez.de">
+        <fileTransfer host="ddbrez.de" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
