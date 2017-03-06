@@ -177,6 +177,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="42d0d8cd-6b06-4f88-9dc3-acd34664ecf9" name="Branchen - Essen Live Test" url="http://debrez.de">
+        <fileTransfer host="debrez.de" port="21" rootFolder="/web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
