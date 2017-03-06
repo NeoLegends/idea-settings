@@ -49,14 +49,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="ba557123-464d-4211-9e63-d03adc83a271" name="Branchen - Düsseldorf Live" url="http://branchen-duesseldorf.de">
-        <fileTransfer host="branchen-duesseldorf.de" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="02ef1562-8a10-41e8-848a-13ff598f3dad" name="Branchen - Duisburg Test" url="http://ftp.duisburg.de1.cc">
         <fileTransfer host="ftp.duisburg.de1.cc" port="21">
           <advancedOptions>
@@ -75,14 +67,6 @@
       </webServer>
       <webServer id="4910eff8-637c-45e6-b848-a9b3c97ba0db" name="Branchen - Essen Test" url="http://debrez.de">
         <fileTransfer host="debrez.de" port="21" rootFolder="/web">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="26d57417-c9e3-4203-95d0-7e921c83931c" name="Branchen - Essen Live" url="http://essener-branchenbuch.de">
-        <fileTransfer host="essener-branchenbuch.de" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -169,16 +153,16 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="7cdcf704-834d-4262-8cc6-10dbf7acfff4" name="Branchen - Duesseldorf Live Test" url="http://ddbrez.de">
-        <fileTransfer host="ddbrez.de" port="21" rootFolder="/web">
+      <webServer id="7cdcf704-834d-4262-8cc6-10dbf7acfff4" name="Branchen - Duesseldorf Live" url="http://branchen-duesseldorf.de">
+        <fileTransfer host="branchen-duesseldorf.de" port="21" rootFolder="/web">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="42d0d8cd-6b06-4f88-9dc3-acd34664ecf9" name="Branchen - Essen Live Test" url="http://debrez.de">
-        <fileTransfer host="debrez.de" port="21" rootFolder="/web">
+      <webServer id="42d0d8cd-6b06-4f88-9dc3-acd34664ecf9" name="Branchen - Essen Live" url="http://essener-branchenbuch.de">
+        <fileTransfer host="essener-branchenbuch.de" port="21" rootFolder="/web">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
