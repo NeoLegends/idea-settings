@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4031875e-dc4e-4f15-81a2-6ee3cc30a07e" name="Markus T Dev" url="http://ftp.markus-t.firma.cc">
-        <fileTransfer host="ftp.markus-t.firma.cc" port="21">
+        <fileTransfer host="ftp.markus-t.firma.cc" port="21" rootFolder="/dev.markus-t.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
