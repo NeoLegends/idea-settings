@@ -153,7 +153,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="7cdcf704-834d-4262-8cc6-10dbf7acfff4" name="Branchen - Duesseldorf Live" url="http://branchen-duesseldorf.de">
+      <webServer id="7cdcf704-834d-4262-8cc6-10dbf7acfff4" name="Branchen - Düsseldorf Live" url="http://branchen-duesseldorf.de">
         <fileTransfer host="branchen-duesseldorf.de" port="21" rootFolder="/web">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
