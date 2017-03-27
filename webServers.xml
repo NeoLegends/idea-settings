@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="713663e5-edaf-40b8-ae18-699632e46583" name="Markus T Live" url="http://ftp.markus-t.firma.cc">
-        <fileTransfer host="ftp.markus-t.firma.cc" port="22" accessType="SFTP">
+        <fileTransfer host="ftp.markus-t.firma.cc" port="22" privateKey="C:\Users\Moritz Gunz\.ssh\surface-nokey.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,11 +10,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="4031875e-dc4e-4f15-81a2-6ee3cc30a07e" name="Markus T Dev" url="http://ftp.markus-t.firma.cc">
-        <fileTransfer host="ftp.markus-t.firma.cc" port="21" rootFolder="/dev.markus-t.com">
+        <fileTransfer host="ftp.markus-t.firma.cc" port="22" privateKey="C:\Users\Moritz Gunz\.ssh\surface-nokey.ppk" rootFolder="/dev.markus-t.com" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="7fb81095-7874-4a48-8f5f-4e2419ea6643" name="Branchen - München Test" url="http://diemuenchner.de1.cc">
