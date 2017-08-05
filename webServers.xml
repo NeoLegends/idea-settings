@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9833a657-6be4-462e-ae3b-742c332a12d7" name="Festify" url="http://festify.us">
+        <fileTransfer host="festify.us" port="22" privateKey="C:\Users\Moritz\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5925f181-940b-42eb-aedf-52ef5997ab84" name="Festify Beta" url="http://festify.us">
+        <fileTransfer host="festify.us" port="22" privateKey="C:\Users\Moritz\.ssh\id_rsa.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
