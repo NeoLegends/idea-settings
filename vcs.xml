@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/NeoLegends/oauth-authorizator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://scm.fit.fraunhofer.de/scm/git/OMP" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Festify" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Fraunhofer" />
   </component>
 </application>
